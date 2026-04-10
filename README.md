@@ -11,7 +11,6 @@ A simple and fast Notes Application built using **React** and **Vite**. This app
 * 📋 View all saved notes
 * ⚡ Fast performance with Vite
 * 🎨 Clean and responsive UI
-* 💾 (Optional) Local storage support
 
 ---
 
@@ -19,8 +18,8 @@ A simple and fast Notes Application built using **React** and **Vite**. This app
 
 * **Frontend:** React
 * **Build Tool:** Vite
-* **Styling:** CSS / Tailwind (if used)
-* **State Management:** useState (or any used by you)
+* **Styling:** Tailwind 
+* **State Management:** useState 
 
 ---
 
@@ -77,10 +76,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of your app here*
-
 ---
 
 ## 🔮 Future Improvements
@@ -108,7 +103,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/aditya90569056
 
 ---
 
