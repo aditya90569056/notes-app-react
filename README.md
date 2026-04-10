@@ -48,13 +48,13 @@ notes-app/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/notes-app.git
+git clone git clone https://github.com/aditya90569056/notes-app-react
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd notes-app
+cd notes-app-react
 ```
 
 3. Install dependencies:
